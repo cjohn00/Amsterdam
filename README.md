@@ -1,2 +1,2 @@
 # Amsterdam
-site dedicated to amsterdam!
+site dedicated to amsterdam
