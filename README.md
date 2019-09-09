@@ -1,2 +1,5 @@
 # Amsterdam
-site dedicated to amsterdam
+site dedicated to Amsterdam
+
+##
+this is my favorite city
