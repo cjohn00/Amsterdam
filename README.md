@@ -1,5 +1,4 @@
 # Amsterdam
 site dedicated to Amsterdam
 
-##
-This is my favorite city
+## This is my favorite city
