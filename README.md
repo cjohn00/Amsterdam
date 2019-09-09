@@ -2,4 +2,4 @@
 site dedicated to Amsterdam
 
 ##
-this is my favorite city
+This is my favorite city
